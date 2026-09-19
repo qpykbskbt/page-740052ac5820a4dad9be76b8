@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "77aeba4d2f2987b07a73d44c",
+  "owner": "qpykbskbt",
+  "repo": "page-740052ac5820a4dad9be76b8",
+  "title": "飞数(Flyint)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "740052ac5820a4dad9be76b8",
+      "a": "飞数(Flyint)",
+      "b": "clash verge官网",
+      "entity": "飞数(Flyint)",
+      "brand": "飞数(Flyint)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "29b62ae40c3e478143c097b05db2cb5fe7b0230d2471b3f3780ad1db274c028d",
+      "content": {
+        "primary_entity": "飞数(Flyint)",
+        "keyword1": "飞数(Flyint)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅就能连上飞数(Flyint)的加速线路。",
+          "AI_CLOSING_TITLE": "开始使用飞数加速",
+          "AI_DESCRIPTION": "，飞数(Flyint)提供按月与按年计费的多种套餐，基础版覆盖日常浏览与基础流媒体，旗舰版面向多设备与游戏加速，团队版适合小团队协作；支持在 Clash Verge、Clash Meta、Shadowrocket 等客户端导入订阅，按设备选择对应客户端后即可配置使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路类型，按使用场景挑选合适的套餐档位。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合手机与笔记本日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，含 VIP 高带宽与专属经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶多设备",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "先确认设备与套餐，再按客户端文档导入订阅链接完成配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "飞数(Flyint)提供按月或按年订阅的海外加速服务，依据设备数量与流量需求分为基础版、旗舰版和团队版。结合 Clash Verge 等客户端导入订阅链接，即可在电脑与移动设备上使用对应的加速线路。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 100GB 与 3 台设备、旗舰版 300GB 与 5 台设备、团队版 1000GB 与 20 台设备，按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量与是否需要游戏专线，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线数量与客户端适配要求，确认系统版本满足使用条件。",
+          "AI_STEP_TEXT_3": "在 Clash Verge 或其他客户端中导入订阅链接，按客户端文档完成配置并连接线路。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "飞数多设备订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞数(Flyint)支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "飞数(Flyint)订阅可通过主流客户端导入，如Clash、Shadowrocket、v2rayN等。不同平台和客户端对协议的支持有差异，建议根据设备系统选择对应客户端并参考其配置文档。",
+          "AI_FAQ_QUESTION_2": "套餐的流量和设备数可以升级吗？",
+          "AI_FAQ_ANSWER_2": "飞数(Flyint)提供基础版、旗舰版和团队版，分别对应100GB/3台、300GB/5台、1000GB/20台。如需更多流量或设备数，可选择更高档套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付方案按月计费，灵活调整。年付方案一次性支付全年费用，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，相比按月支付更节省。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线有什么优势？",
+          "AI_FAQ_ANSWER_4": "旗舰版配备IPLC专线节点，针对游戏加速进行优化，延迟表现更稳定，同时支持全节点原生流媒体解锁，适合对线路质量要求较高的用户。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量和20台设备同时在线，配备VIP高带宽节点，支持企业定制路由和专属客户经理服务，适合多人协作或中小企业使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ed2477b23cc8684f6d796a2f32c3b4a23235490c5276f240bca59f4ff9e717ee",
+    "sitemap.xml": "5ed890451060ea2d414a96fe51d55f29ed6cbfe5cdbe81c61360576f349361b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3918fb60ab42125a9bb7cd93ee919c76db80682632508e1eb851bb63b7f5be02"
+}
